@@ -1,0 +1,3 @@
+Enter your gross income in dollars: 500000 
+Enter total dependents: 1
+Your income tax is:  7400.0

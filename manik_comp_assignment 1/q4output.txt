@@ -1,0 +1,7 @@
+enter the marks of 5 students 
+Enter mark of Student  95
+Enter mark of Student  98
+Enter mark of Student  79
+Enter mark of Student  64
+Enter mark of Student  100
+[64.0, 79.0, 95.0, 98.0, 100.0]

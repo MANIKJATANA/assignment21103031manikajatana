@@ -1,0 +1,6 @@
+Enter SID:   21103071
+Enter name:  MANIK JATANA
+Enter Gender(M,F,U for unknown)   M
+Enter course name:    ITC
+Enter CGPA    9.8
+['21103071', 'MANIK JATANA', 'M', 'ITC', 9.8]

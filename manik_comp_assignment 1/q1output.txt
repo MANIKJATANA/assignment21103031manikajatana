@@ -1,0 +1,8 @@
+Enter the value of 1st number 
+10
+Enter the value of 2nd number 
+20
+Enter the value of 3rd number 
+ 90
+The average of these numbers is 
+ 40.0
